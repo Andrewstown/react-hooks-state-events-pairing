@@ -4,8 +4,8 @@ const video = {
   embedUrl: "https://www.youtube.com/embed/dpw9EHDh2bM",
   views: 730707,
   createdAt: "Oct 26, 2018",
-  upvotes: 9210,
-  downvotes: 185,
+  likes: 9210,
+  dislikes: 185,
   comments: [
     {
       id: 1,
